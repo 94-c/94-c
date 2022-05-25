@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🤔 항상 많은 생각하고 있습니다.
 <!--
 **94-c/94-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
