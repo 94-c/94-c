@@ -10,7 +10,9 @@
 ## 💻 Tech Stacks 
 - Backend <br>
 <span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java"></span>
+<span><img src="https://img.shields.io/badge/PHP-007396?style=flat-square&logo=php"></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Laravel-F80000?style=flat-square&logo=Laravel&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"></span>
