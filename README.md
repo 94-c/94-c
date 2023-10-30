@@ -1,8 +1,9 @@
-## 🧑🏻‍💻 My, Boom 
+ㅂ## 🧑🏻‍💻 My, Boom 
 - 꾸준한 성장을 중점을 두는 개발자입니다.
 - 🤔 어떠한 것을 할까, 고민을 하는 개발자입니다.
 - 🤓 배우는 것을 좋아하고, 궁금해하면 먼저 물어보는 개발자입니다.
 - 😁 반복 업무를 싫어하지만, 그 상황에 맞게 다름을 찾기 위하여 노력합니다.
+- 
 
 ## 💻 My, Tech Stacks 
 <span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java"></span>
