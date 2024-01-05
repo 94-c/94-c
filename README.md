@@ -31,7 +31,7 @@
 <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
 
 ## 📕 My,Blog
-- [붐(BOOM) 개발 일기](https://boom-dev-history.tistory.com/)
+- [boom's Devlog](https://boom-dev-history.tistory.com/](https://boom-94.tistory.com/))
 
 ## 💿 My,Repository
 - study_** : 개인적으로 학습한 내용 (Inflean,FastCampus,Udemy..)
