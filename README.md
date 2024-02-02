@@ -5,13 +5,16 @@
 - 😁 반복 업무를 싫어하지만, 그 상황에 맞게 다름을 찾기 위하여 노력합니다.
 
 
-## 💻 My, Tech Stacks 
+## 💻 My, Tech Stacks
+<div align = "center">
+  
 <span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java"></span>
 <span><img src="https://img.shields.io/badge/PHP-007396?style=flat-square&logo=php"></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Laravel-F80000?style=flat-square&logo=Laravel&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"></span>
+
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"></span>
@@ -30,14 +33,9 @@
 <span><img src="https://img.shields.io/badge/ArgoCD-ef7b4d?style=flat-square&logo=argo&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
 
-## 📕 My,Blog
-- [boom's Devlog](https://boom-dev-history.tistory.com/](https://boom-94.tistory.com/))
-
-## 💿 My,Repository
-- study_** : 개인적으로 학습한 내용 (Inflean,FastCampus,Udemy..)
-- toy_** : 토이 프로젝스
-- book_** : 책을 통하여 학습한 내용
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=94-c&show_icons=true&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=94-c&show_icons=true&theme=radical)
+
+</div>
