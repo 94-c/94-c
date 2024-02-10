@@ -1,7 +1,6 @@
 ## 🧑🏻‍💻 My, Boom 
 
 
-
 ## 💻 My, Tech Stacks
 <div align = "center">
   
